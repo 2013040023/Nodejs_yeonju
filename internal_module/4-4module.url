@@ -1,0 +1,8 @@
+
+//모듈을 추출합니다.
+var url=require('url');
+
+//모듈을 사용합니다.
+//URL 문자열을 URL 객체로 변환해 리턴합니다.
+var parsedObject=url.parse('http://www.hanb.co.kr/trackback/978-89-7924-874-9');
+console.log(parsedObject);
