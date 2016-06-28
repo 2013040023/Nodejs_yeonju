@@ -1,0 +1,15 @@
+
+//이벤트 11개 연결
+process.on('exit',function() {});
+process.on('exit',function() {});
+process.on('exit',function() {});
+process.on('exit',function() {});
+process.on('exit',function() {});
+
+process.on('exit',function() {});
+process.on('exit',function() {});
+process.on('exit',function() {});
+process.on('exit',function() {});
+process.on('exit',function() {});
+
+process.on('exit',function() {});
